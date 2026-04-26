@@ -1,3 +1,8 @@
+https://dgonzalezarroyo.github.io/analisis_redes/abrir_server.sh 
+
+https://dgonzalezarroyo.github.io/analisis_redes/redespru.sh
+
+
 Echo por Ulyses Huete y Aarón Barcenas
 
 =========================
